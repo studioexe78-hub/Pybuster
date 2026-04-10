@@ -18,7 +18,7 @@
 
 ```bash
 # تحميل الأداة من GitHub
-git clone [https://github.com/studioexe78/PyBuster](https://github.com/studioexe78/PyBuster)
+git clone [https://github.com/studioexe78-hub/Pybuster](https://github.com/studioexe78-hub/Pybuster)
 
 # الدخول لمجلد الأداة
 cd PyBuster
