@@ -15,8 +15,8 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 
 # تحميل الأداة من حسابك
-git clone [https://github.com/studioexe78-hub/Pybuster](https://github.com/studioexe78-hub/Pybuster)
 
+git clone https://github.com/studioexe78-hub/Pybuster
 # الدخول للمجلد (انتبه لحالة الأحرف)
 cd Pybuster
 
